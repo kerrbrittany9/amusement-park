@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  var height = parseInt(prompt("How tall are you?"));
+  var height = parseFloat(prompt("How tall are you?"));
 
   if (height > 5) {
     $('#rides').show();
