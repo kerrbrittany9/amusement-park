@@ -5,3 +5,17 @@
 .salmon-background {
   background-color: salmon;
 }
+.well {
+  font-style: italic;
+  font-family: fantasy;
+  color: purple;
+  text-align: center;
+}
+
+img {
+  margin: 50px
+
+}
+h3 {
+  font-stretch: extra-expanded;
+}
